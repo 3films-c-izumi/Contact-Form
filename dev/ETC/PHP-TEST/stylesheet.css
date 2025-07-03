@@ -1,0 +1,29 @@
+.error_message { 
+    color: red;
+    font-size: 13px;
+}
+p{
+    margin: 0;
+}
+form {
+    margin-left: 20%;
+}
+textarea {
+    resize: none;
+    padding-bottom: 15px;
+}
+textarea[name="name"],textarea[name="email"] {
+    width: 300px;
+}
+textarea[name="message"] {
+    width: 600px;
+}
+textarea, label {
+    text-align: left;
+}
+.confirm_textarea {
+    background-color: rgb(214, 214, 214);
+}
+.no-wrap {
+    white-space: nowrap;
+}
