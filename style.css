@@ -1,0 +1,9 @@
+.error {
+    color: red;
+}
+textarea{
+    resize: none;
+}
+.textarea-confirm{
+    background-color: rgb(220, 220, 220);
+}
